@@ -40,7 +40,7 @@ This project showed me that you can do a lot with just CSS and HTML. I look forw
 ## Author
 
 - Website - [Myles Eberlein](https://www.linkedin.com/in/myles-eberlein-653440111/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/myleselym)
+- Frontend Mentor - [@myleselym](https://www.frontendmentor.io/profile/myleselym)
 
 ## Acknowledgments
 
