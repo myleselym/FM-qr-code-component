@@ -23,7 +23,7 @@ Responsively created with HTML and CSS
 
 ### Links
 - Solution URL: [GitHub](https://github.com/myleselym/FM-qr-code-component)
-- Live Site URL: [Live Demo](fm-qr-code-component-lac.vercel.app)
+- Live Site URL: [Live Demo](https://fm-qr-code-component-lac.vercel.app)
 
 ## My process
 I really just plowed head first into this one. I will take the time to configure my css file with global variables next time to be more efficient while trying to adhere to the style guide.
