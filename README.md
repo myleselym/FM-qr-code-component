@@ -19,14 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Responsively created with HTML and CSS
 ### Screenshot
 
-![](./screenshot.png)
+![screenshot](./screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://github.com/myleselym/FM-qr-code-component)
-- Live Site URL: [Add live site URL here](fm-qr-code-component-lac.vercel.app)
+- Solution URL: [GitHub](https://github.com/myleselym/FM-qr-code-component)
+- Live Site URL: [Live Demo](fm-qr-code-component-lac.vercel.app)
 
 ## My process
-I really just plowed head first into this one. I will take the time to configure my css file with global variables next time to be more efficient while trying to adhear to the style guide.
+I really just plowed head first into this one. I will take the time to configure my css file with global variables next time to be more efficient while trying to adhere to the style guide.
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
@@ -35,7 +35,7 @@ I really just plowed head first into this one. I will take the time to configure
 I learned how to leverage margin, padding, and min and max width to create a responsive design. 
 ### Continued development
 
-This project showed me that you can do a lot with just CSS and HTML. I look forward to continuing to find the elegant solutions to the next challenges.
+This project showed me that you can do a lot with just CSS and HTML. I look forward to continuing to find elegant solutions to the next challenges.
 
 ## Author
 
