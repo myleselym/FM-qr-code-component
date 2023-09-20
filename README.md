@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Responsively created with HTML and CSS
 ### Screenshot
 
-![screenshot](./screenshot.png)
+![screenshot](./images/screenshot.png)
 
 ### Links
 - Solution URL: [GitHub](https://github.com/myleselym/FM-qr-code-component)
